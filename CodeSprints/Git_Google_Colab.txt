@@ -18,9 +18,9 @@ setup_git(
 )
 
 #clone repo
-git clone https://lizcarter492/EnvDatSci21
+git clone https://lizcarter492/EnvDatSci22
 
 #enter repo
-!cd EnvDatSci21
+!cd EnvDatSci22
 
 #Use "Save to Github"
